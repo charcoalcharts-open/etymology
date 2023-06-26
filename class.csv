@@ -1,55 +1,55 @@
 key,origin,class
 English,English,British
-German,German,German
+German,German,Germanic
 Latin,Latin,Latin
 PIE,IndoEuropean,IndoEuropean
 French,French,Latin
-Dutch,Dutch,German
-ProtoGermanic,German,German
-Norse,Norse,German
-Frisian,German,German
-Saxon,German,German
-Gothic,Gothic,German
+Dutch,Dutch,Germanic
+ProtoGermanic,German,Germanic
+Norse,Norse,Germanic
+Frisian,Frisian,Germanic
+Saxon,Saxon,Germanic
+Gothic,Gothic,Germanic
 Greek,Greek,Greek
-Germanic,German,German
+Germanic,German,Germanic
 American,American,American
 US,American,American
-Danish,Danish,German
+Danish,Danish,Germanic
 Italian,Italian,Latin
 Spanish,Spanish,Latin
-Swedish,Swedish,German
+Swedish,Swedish,Germanic
 Irish,Irish,British
 Sanskrit,Sanskrit,IndoEuropean
 Slavonic,Slavic,Slavic
-Lithuanian,Slavic,Slavic
+Lithuanian,Lithuanian,IndoEuropean
 Welsh,Welsh,British
 IndoEuropean,IndoEuropean,IndoEuropean
 England,English,British
 AngloFrench,French,Latin
-Russian,Slavic,Slavic
-Scandinavian,Norse,German
-Avestan,Persian,IndoEuropean
+Russian,Russian,Slavic
+Scandinavian,Norse,Germanic
+Avestan,Persian,Middle Eastern
 God,Christian,Latin
 London,English,British
-Persian,Persian,IndoEuropean
+Persian,Persian,Middle Eastern
 Roman,Latin,Latin
-Scottish,Scotish,British
+Scottish,Scottish,British
 British,English,British
 Celtic,Celtic,British
 European,IndoEuropean,IndoEuropean
 America,American,American
-Norwegian,Norwegian,German
+Norwegian,Norwegian,Germanic
 Hittite,Hittite,Middle Eastern
 Hebrew,Hebrew,Middle Eastern
 Polish,Polish,Slavic
 Arabic,Arabic,Middle Eastern
-Frankish,Frankish,German
+Frankish,Frankish,Germanic
 Portuguese,Portuguese,Latin
 AfricanAmerican,African American,American
 Armenian,Armenian,Middle Eastern
 Christmas,Christian,Latin
 Romanic,Latin,Latin
-AngloSaxon,German,German
+AngloSaxon,German,Germanic
 Breton,English,British
 Christ,Christian,Latin
 Europe,IndoEuropean,IndoEuropean
@@ -66,15 +66,15 @@ Indian,Indian,IndoEuropean
 Midlands,English,British
 Native,American,American
 States,American,American
-Anglian,German,German
+Anglian,German,Germanic
 Lat,Latin,Latin
 ProtoItalic,Latin,Latin
-Scotland,Scotish,British
+Scotland,Scottish,British
 Testament,Christian,Latin
 Biblical,Christian,Latin
 Chicago,American,American
 Finnish,Finnish,IndoEuropean
-Flemish,German,German
+Flemish,German,Germanic
 India,Indian,IndoEuropean
 Japanese,Japanese,East Asian
 LORD,Christian,Latin
@@ -85,7 +85,7 @@ Americans,American,American
 Asia,East Asian,East Asian
 BaltoSlavic,Slavic,Slavic
 Chinese,Chinese,East Asian
-Czech,Czech,German
+Czech,Czech,Germanic
 Greece,Greek,Greek
 Ireland,Irish,British
 Mary,Christian,Latin
@@ -93,23 +93,23 @@ African,African,African
 Americanisms,American,American
 Australia,Australian,Australian
 California,American,American
-Gaulish,French,Latin
-Germans,German,German
+Gaulish,Gaulish,Latin
+Germans,German,Germanic
 Hollywood,American,American
 Holy,Christian,Latin
-Icelandic,Icelandic,German
+Icelandic,Icelandic,Germanic
 Italic,Italian,Latin
 Jersey,English,British
 Ohio,American,American
 Paris,French,Latin
-Prussian,German,German
+Prussian,Prussian,Germanic
 Rome,Latin,Latin
 SerboCroatian,Slavic,Slavic
 Spain,Spanish,Latin
-Algonquian,American,American
-AngloSaxons,German,German
+Algonquian,Algonquian,American
+AngloSaxons,German,Germanic
 Arkansas,American,American
-Bohemian,German,German
+Bohemian,German,Germanic
 Canterbury,English,British
 China,Chinese,East Asian
 Cornish,Cornish,British
@@ -130,17 +130,17 @@ Proverbs,Christian,Latin
 Quaker,American,American
 Romance,Latin,Latin
 Russia,Slavic,Slavic
-Scotch,Scotish,British
+Scotch,Scottish,British
 Semitic,Hebrew,Middle Eastern
 Sussex,English,British
-Swiss,Swiss,German
-Switzerland,Swiss,German
+Swiss,Swiss,Germanic
+Switzerland,Swiss,Germanic
 Turkish,Turkish,Middle Eastern
 Virginia,American,American
 Washington,American,American
-Zealand,Dutch,German
+Zealand,Dutch,Germanic
 Africa,African,African
-AngloFrisian,German,German
+AngloFrisian,German,Germanic
 AngloLatin,Latin,Latin
 Aramaic,Hebrew,Middle Eastern
 Attic,Greek,Greek
